@@ -6,6 +6,8 @@ List the funny tools of Linux
 | :--- | :----    | :---- |
 | **C** | | |
 | cutecom |  graphical serial terminal(Linux, FreeBSD and Mac OS X) | http://cutecom.sourceforge.net/ |
+| **G** | | |
+| **Git** | Resource to learn Git | http://try.github.io/ |
 | **L** | | |
 | latencytop    | a Linux application for identifying operating system latency      | http://wiki.dreamrunner.org/public_html/Low_Latency_Programming/LatencyTOP.html     |
 | M | | |
