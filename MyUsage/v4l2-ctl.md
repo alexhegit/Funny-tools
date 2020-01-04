@@ -204,3 +204,9 @@ Format Video Capture:
 
 1. FPS could not be set directly and it will be decided by the RESOLUTION and PIXEL FORMAT.
 2. Then use *v4l-ctl --all* to check if the settings
+
+## Relate Topics
+1. https://devtalk.nvidia.com/default/topic/1045545/jetson-tx2/v4l2-with-opencv-in-python/
+2. [royshil/opencv_capture_v4l2.py](https://gist.github.com/royshil/0f674c96281b686a9a62)
+3. https://pypi.org/project/v4l2/
+4. [jwhendy/set_opencv_webcam.py](https://gist.github.com/jwhendy/12bf558011fe5ff58bd5849954e84af4)
