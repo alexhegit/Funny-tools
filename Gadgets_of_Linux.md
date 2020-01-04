@@ -24,3 +24,5 @@ List the funny tools of Linux
 | **T** | | |
 | tmate | terminal sharing tools | https://tmate.io/ |
 | tmux | multi-windows terminal | https://github.com/tmux/tmux |
+| **V** | | |
+| v4l2-ctl | v4l2-ctl — An application to control video4linux drivers | https://www.mankier.com/1/v4l2-ctl |
