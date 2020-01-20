@@ -7,3 +7,4 @@
 | gperftools | a collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools. | https://github.com/gperftools/gperftools |
 | **P** | | |
 | pyflame |Pyflame: A Ptracing Profiler For Python | https://github.com/uber-archive/pyflame |
+| cProfile | profile module of Python | example : Profiling Python using cProfile: a concrete case |  
