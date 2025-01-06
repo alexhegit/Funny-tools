@@ -27,7 +27,9 @@ List the funny tools of Linux
 | tabby | Tabby (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows 10, macOS and Linux | https://github.com/Eugeny/tabby | 
 | **V** | | |
 | v4l2-ctl | v4l2-ctl — An application to control video4linux drivers | https://www.mankier.com/1/v4l2-ctl |
-| **V** | | |
+| **W** | | |
+|WaveTerm||https://github.com/wavetermdev/waveterm|
+| **X** | | |
 | X-CMD | Your AI-Powered Excalibur in Cloud. https://cn.x-cmd.com/ |https://github.com/x-cmd/x-cmd|
 
 
