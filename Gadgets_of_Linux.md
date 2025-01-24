@@ -25,6 +25,7 @@ List the funny tools of Linux
 | tmate | terminal sharing tools | https://tmate.io/ |
 | tmux | multi-windows terminal | https://github.com/tmux/tmux |
 | tabby | Tabby (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows 10, macOS and Linux | https://github.com/Eugeny/tabby | 
+| trzsz | a simple file transfer tools | https://github.com/trzsz/trzsz |
 | **V** | | |
 | v4l2-ctl | v4l2-ctl — An application to control video4linux drivers | https://www.mankier.com/1/v4l2-ctl |
 | **W** | | |
