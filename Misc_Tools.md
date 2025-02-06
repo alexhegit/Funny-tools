@@ -8,5 +8,6 @@ Misc Tools
 | netron | Visual tools of ONNX (.onnx, .pb, .pbtxt), Keras (.h5, .keras), CoreML (.mlmodel), Caffe2 (predict_net.pb, predict_net.pbtxt), MXNet (.model, -symbol.json) and TensorFlow Lite (.tflite) | https://lutzroeder.github.io/netron/ |
 | Yu Writer | Markdown tool (Mac/Win) | https://github.com/ivarptr/yu-writer.site/releases |
 | Typora | Markdown tool(Mac/Win/LInux) | https://typora.io |
+| Logseq | A privacy-first, open-source platform for knowledge management and collaboration |https://github.com/logseq/logseq|
 | slidev | 为开发者打造的演示文稿工具 | https://cn.sli.dev/|
 | Ventoy | 启动盘烧录工具 | https://www.ventoy.net |
