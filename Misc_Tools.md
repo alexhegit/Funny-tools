@@ -12,7 +12,14 @@
 | slidev | 为开发者打造的演示文稿工具 | https://cn.sli.dev/|
 | Ventoy | 启动盘烧录工具 | https://www.ventoy.net |
 
-# MLOps
+
+# MLOps 
 | Name | Comments | URL   |
 | :--- | :----    | :---- |
-|Dockge | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager. | https://github.com/louislam/dockge | 
+| Dockge | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager. | https://github.com/louislam/dockge | 
+
+
+# HW Monitor 
+| Name | Comments | URL   |
+| :--- | :----    | :---- |
+| Glances | system cross-platform monitoring tool | https://github.com/nicolargo/glances |
