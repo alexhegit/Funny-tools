@@ -1,4 +1,4 @@
-Misc Tools
+# Misc Tools
 
 | Name | Comments | URL   |
 | :--- | :----    | :---- |
@@ -11,3 +11,8 @@ Misc Tools
 | Logseq | A privacy-first, open-source platform for knowledge management and collaboration |https://github.com/logseq/logseq|
 | slidev | 为开发者打造的演示文稿工具 | https://cn.sli.dev/|
 | Ventoy | 启动盘烧录工具 | https://www.ventoy.net |
+
+# MLOps
+| Name | Comments | URL   |
+| :--- | :----    | :---- |
+|Dockge | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager. | https://github.com/louislam/dockge | 
