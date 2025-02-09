@@ -11,6 +11,7 @@
 | Logseq | A privacy-first, open-source platform for knowledge management and collaboration |https://github.com/logseq/logseq|
 | slidev | 为开发者打造的演示文稿工具 | https://cn.sli.dev/|
 | Ventoy | 启动盘烧录工具 | https://www.ventoy.net |
+| XDM | Xtreme Download Manager is a powerful tool to increase download speed up-to 500%, save streaming videos from websites, resume broken/dead downloads, schedule and convert downloads. | https://xtremedownloadmanager.com/|
 
 
 # MLOps 
