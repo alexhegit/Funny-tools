@@ -2,7 +2,9 @@
 
 | Name | Comments | URL   |
 | :--- | :----    | :---- |
-|Fish Shell | smart and user-friendly command line shell for Linux, macOS, and the rest of the family | https://fishshell.com/ |
+| FishShell | smart and user-friendly command line shell for Linux, macOS, and the rest of the family | https://fishshell.com/ |
+| WaveShell |||
+| Tabby| | |
 | Ditto | extension to the standard windows clipboard | https://ditto-cp.sourceforge.io/ |
 | spacevim| | SpaceVim官网：https://spacevim.org/ SpaceVim中文官网：http://spacevim.org/cn/ SpaceVim的Github页面 https://github.com/SpaceVim/SpaceVim|
 | MarkdownPad 2 | MarkDown tool (Win)| http://markdownpad.com/ |
